@@ -1,0 +1,15 @@
+artifact_uri: file:///home/o13g/bootcamp/nn_project/notebooks/mlruns/133609668147197326/a360bad583a846a59a3cd91f028bfde8/artifacts
+end_time: 1748600378051
+entry_point_name: ''
+experiment_id: '133609668147197326'
+lifecycle_stage: active
+run_id: a360bad583a846a59a3cd91f028bfde8
+run_name: CIFAR10_BigCNN_bs_512_lr_0.001
+run_uuid: a360bad583a846a59a3cd91f028bfde8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748600375517
+status: 4
+tags: []
+user_id: o13g

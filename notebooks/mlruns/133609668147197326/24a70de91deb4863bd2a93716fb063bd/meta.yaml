@@ -1,0 +1,15 @@
+artifact_uri: file:///home/o13g/bootcamp/nn_project/notebooks/mlruns/133609668147197326/24a70de91deb4863bd2a93716fb063bd/artifacts
+end_time: 1748603723898
+entry_point_name: ''
+experiment_id: '133609668147197326'
+lifecycle_stage: active
+run_id: 24a70de91deb4863bd2a93716fb063bd
+run_name: SKINCARE_RESNET50_bs_512_lr_0.001
+run_uuid: 24a70de91deb4863bd2a93716fb063bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748603634789
+status: 3
+tags: []
+user_id: o13g
