@@ -5,3 +5,4 @@ matplotlib
 mlflow
 torchvision
 streamlit
+seaborn
